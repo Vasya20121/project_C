@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559857910 source:c:\users\asus\desktop\c++\proectc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"windows.h"
+
